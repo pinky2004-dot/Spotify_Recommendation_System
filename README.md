@@ -1,4 +1,4 @@
-# (UPDATE IN README.md) Project Title
+# Spotify Mood Detector
 
 (UPDATE IN README.md)
 Briefly describe the purpose/result(s) of your project, the skills you applied, and the Apply AI program.
@@ -39,29 +39,22 @@ Enumerate the main results of this project in a list and describe them.
 
 ## Data Sources <!--- do not change this line -->
 
-(UPDATE IN README.md)
-Include any relevant data sources that were used in your project.
-
-*EXAMPLE:*
-*Kaggle Datasets: [Link to Kaggle Dataset](https://www.kaggle.com/datasets)*
+Kaggle Dataset: [Top 50 Spotify 2019](https://www.kaggle.com/datasets/leonardopena/top50spotify2019/data)
 
 ## Technologies Used <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the technologies, libraries, and frameworks used in your project.
-
-*EXAMPLE:*
 - *Python*
 - *pandas*
-- *OpenAI API*
+- *numpy*
+- *Google Colaboratory*
+- *sklearn*
+- *matplot*
 
 
 ## Authors <!--- do not change this line -->
 
-(UPDATE IN README.md)
-List the names and contact information (e.g., email, GitHub profiles) of the authors or contributors.
-
-*EXAMPLE:*
 *This project was completed in collaboration with:*
-- *John Doe ([john.doe@example.com](mailto:john.doe@example.com))*
-- *Jane Smith ([jane.smith@example.com](mailto:jane.smith@example.com))*
+- *Sai Donepudi (SaiDonepudi@my.unt.edu)*
+- *Mateo Lauzardo (mlauz005@fiu.edu)*
+- *Marcia Baker (mpastio@wgu.edu)*
+- *Debora*
