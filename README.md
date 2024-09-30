@@ -54,7 +54,7 @@ Kaggle Dataset: [Top 50 Spotify 2019](https://www.kaggle.com/datasets/leonardope
 ## Authors <!--- do not change this line -->
 
 *This project was completed in collaboration with:*
-- *Sai Donepudi (SaiDonepudi@my.unt.edu)*
-- *Mateo Lauzardo (mlauz005@fiu.edu)*
-- *Marcia Baker (mpastio@wgu.edu)*
+- *Sai Donepudi ([SaiDonepudi@my.unt.edu](mailto:SaiDonepudi@my.unt.edu))*
+- *Mateo Lauzardo ([mlauz005@fiu.edu](mailto:mlauz005@fiu.edu))*
+- *Marcia Baker ([mpastio@wgu.edu](mailto:mpastio@wgu.edu))*
 - *Debora*
