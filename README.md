@@ -1,4 +1,4 @@
-# Spotify Mood Detector
+# Spotify Song Recommendations
 
 As people's love for music grows, the struggle with finding and understanding music grows as well. Due to this issue our group finds this topic very relevant. Our goal is to stop that struggle and make life easier. Using the [Top 10000 Songs on Spotify 1960-Now](https://www.kaggle.com/datasets/joebeachcapital/top-10000-spotify-songs-1960-now/data) dataset, we hope to accomplish this, and help users have a deeper understanding of the emotional impact of music and speed up the process of finding a new song.  By the end of this project, we hope to gain insights on the connection between music and emotions, which could improve the way songs are categorized on streaming platforms.
 
